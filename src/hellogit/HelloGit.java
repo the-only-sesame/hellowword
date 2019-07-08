@@ -2,6 +2,6 @@ package hellogit;
 
 public class HelloGit {
 public static void main(String[] args) {
-	System.out.println("ÄãºÃgit");
+	System.out.println("ä½ å¥½git");
 }
 }
